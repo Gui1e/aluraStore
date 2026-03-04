@@ -82,24 +82,10 @@ Muestra la acumulación de ingresos a lo largo del tiempo para visualizar la con
 ### Opción A — Google Colab (recomendado)
 
 1. Abre [Google Colab](https://colab.research.google.com/)
-2. Ve a **Archivo → Subir notebook** y sube `AluraStoreLatam.ipynb`
+2. Ve a **Archivo → Subir notebook** y sube `AluraStoreLatam(1).ipynb`
 3. Ejecuta todas las celdas con **Runtime → Run all**
 
 No se requiere ninguna instalación adicional — los datos se descargan automáticamente desde GitHub.
-
-### Opción B — Ejecución local
-
-```bash
-# Clona el repositorio
-git clone https://github.com/tu-usuario/alura-store-latam.git
-cd alura-store-latam
-
-# Instala dependencias
-pip install pandas matplotlib seaborn
-
-# Abre el notebook
-jupyter notebook AluraStoreLatam.ipynb
-```
 
 ---
 
