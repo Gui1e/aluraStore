@@ -63,7 +63,7 @@ Muestra la acumulación de ingresos a lo largo del tiempo para visualizar la con
 > 💡 **Insight:** La Tienda 4 se mantiene como la línea inferior a lo largo de **todo** el historial. Aunque todas las tiendas crecen en términos acumulados, la Tienda 4 es la que menos contribuye al total, reforzando su posición estructural como la de menor rendimiento.
 
 ---
-> La **Tienda 4** aparece destacada en **rojo** en todos los gráficos. Para agregar capturas reales, exporta cada figura desde el notebook con `plt.savefig('img/graficoN.png', dpi=150, bbox_inches='tight')` y súbelas a una carpeta `/img` en el repositorio.
+> La **Tienda 4** aparece destacada en **rojo** en todos los gráficos.
 
 ---
 
