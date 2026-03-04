@@ -79,7 +79,7 @@ Muestra la acumulación de ingresos a lo largo del tiempo para visualizar la con
 
 ## 🚀 Cómo ejecutar
 
-### Opción A — Google Colab (recomendado)
+### Google Colab (recomendado)
 
 1. Abre [Google Colab](https://colab.research.google.com/)
 2. Ve a **Archivo → Subir notebook** y sube `AluraStoreLatam(1).ipynb`
